@@ -1,7 +1,8 @@
 # Bot de Gestión de Vacaciones (Simulador)
 
 Trabajo Práctico Integrador — Cátedra Organización Empresarial
-Tecnicatura Universitaria en Programación (TUP) a Distancia — UTN
+Tecnicatura Universitaria en Programación a Distancia — UTN
+Alumno: Franco Biderbost
 
 ## Descripción
 
@@ -78,8 +79,8 @@ la aprobación del supervisor se simula editando manualmente el campo
 
 ## Autores
 
-- [Nombre Apellido 1]
-- [Nombre Apellido 2]
+- Franco Biderbost
+
 
 ## Cátedra
 
