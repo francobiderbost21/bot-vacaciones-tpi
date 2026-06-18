@@ -1,0 +1,4 @@
+legajo,nombre,email,dias_disponibles,dias_tomados,supervisor_id
+EMP001,Juan Perez,juan.perez@empresa.com,15,5,SUP001
+EMP002,Maria Gomez,maria.gomez@empresa.com,3,17,SUP001
+EMP003,Carlos Ruiz,carlos.ruiz@empresa.com,20,0,SUP002
